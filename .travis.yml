@@ -1,0 +1,7 @@
+language: generic
+install: true
+addons:
+  apt:
+    packages:
+    - python-pyicu
+script: en-cs/test.sh
