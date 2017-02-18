@@ -33,72 +33,96 @@ A/nebo k označení, zda předmětem hovoru je žena nebo muž (je to pomůcka p
 | `[female]` | žena |
 | `[male]`   | muž  |
 
-A/nebo slouží k určení oboru, místě v němž se používá daný překlad:
+Také lze uvést kategorie, které slovo charakterizují:
+
+|--------------|--------------------------------------|
+|--------------|--------------------------------------|
+| `[bás.]`     | básnicky                             |
+| `[dět.]`     | dětský výraz, dětsky                 |
+| `[fráz.]`    | zkratka označující frázi             |
+| `[frsl.]`    | frázové sloveso (např. give up)      |
+| `[hovor.]`   | hovorově                             |
+| `[id.]`      | idiom (např. a bun in the oven)      |
+| `[jmén.]`    | vlastní jméno                        |
+| `[kniž.]`    | knižně                               |
+| `[neobv.]`   | neobvyklé                            |
+| `[neprav.]`  | nepravidelné sloveso                 |
+| `[obec.]`    | obecné - taktéž lze vynechat         |
+| `[přen.]`    | přeneseně                            |
+| `[slang.]`   | slangový výraz                       |
+| `[vulg.]`    | vulgárně                             |
+| `[zast.]`    | zastarale                            |
+| `[zkr.]`     | zkratka                              |
+| `[žert.]`    | žertovně, žertovné                   |
+
+Další kategorie slouží k určení oboru, v němž se dané slovo používá:
+
+Humanitní a společenské vědy:
+
+|--------------|--------------------------------------|
+|--------------|--------------------------------------|
+| `[fin.]`     | finance                              |
+| `[hist.]`    | historický výraz, historický název   |
+| `[hud.]`     | hudební terminologie                 |
+| `[lingv.]`   | lingvistické                         |
+| `[myt.]`     | mytologie                            |
+| `[náb.]`     | výraz z oblasti náboženství          |
+| `[polit.]`   | politický výraz či obrat             |
+| `[práv.]`    | práva                                |
+| `[psych.]`   | psychologický                        |
+| `[sex.]`     | sexuální výraz                       |
+| `[sport.]`   | výraz z oblasti sportu               |
+
+Přírodní vědy:
 
 |--------------|--------------------------------------|
 |--------------|--------------------------------------|
 | `[astr.]`    | astronomie                           |
-| `[aut.]`     | automobilový průmysl                 |
-| `[bás.]`     | básnicky                             |
 | `[bio.]`     | biologie                             |
 | `[bot.]`     | výraz z oblasti botaniky             |
-| `[cukr.]`    | cukrovarnictví                       |
-| `[dět.]`     | dětský výraz, dětsky                 |
-| `[dřev.]`    | těžba dřeva, dřevozpracující průmysl |
 | `[eko.]`     | ekologie                             |
-| `[el.]`      | elektrotechnika                      |
-| `[fin.]`     | finance                              |
-| `[fráz.]`    | zkratka označující frázi             |
-| `[frsl.]`    | frázové sloveso (např. give up)      |
 | `[fyz.]`     | fyzika                               |
-| `[geol.]`    | geologie                             |
 | `[geod.]`    | geodézie                             |
-| `[horn.]`    | hornictví, mineralogie               |
-| `[hovor.]`   | hovorově                             |
-| `[hist.]`    | historický výraz, historický název   |
-| `[hud.]`     | hudební terminologie                 |
-| `[hut.]`     | hutnictví                            |
+| `[geol.]`    | geologie                             |
 | `[chem.]`    | chemie                               |
-| `[id.]`      | idiom (např. a bun in the oven)      |
-| `[it.]`      | informační technologie               |
-| `[jad.]`     | jaderná fyzika, technologie          |
-| `[jmén.]`    | vlastní jméno                        |
-| `[ker.]`     | keramický průmysl                    |
-| `[kož.]`     | kožedělný průmysl                    |
-| `[kniž.]`    | knižně                               |
-| `[lak.]`     | nátěrová technologie, hmoty          |
-| `[let.]`     | letectví                             |
-| `[lingv.]`   | lingvistické                         |
-| `[lod.]`     | lodě, lodní doprava                  |
 | `[mat.]`     | matematika                           |
 | `[med.]`     | medicína                             |
 | `[meteo.]`   | meteorologie                         |
-| `[myt.]`     | mytologie                            |
-| `[náb.]`     | výraz z oblasti náboženství          |
-| `[neobv.]`   | neobvyklé                            |
-| `[neprav.]`  | nepravidelné sloveso                 |
-| `[obec.]`    | obecné - taktéž lze vynechat         |
 | `[opt.]`     | optika                               |
-| `[polit.]`   | politický výraz či obrat             |
+| `[zem.]`     | zeměpisný výraz                      |
+| `[zoo.]`     | zoologie                             |
+
+Zemědělství, průmysl, technika:
+
+|--------------|--------------------------------------|
+|--------------|--------------------------------------|
+| `[cukr.]`    | cukrovarnictví                       |
+| `[dřev.]`    | těžba dřeva, dřevozpracující průmysl |
+| `[el.]`      | elektrotechnika                      |
+| `[horn.]`    | hornictví, mineralogie               |
+| `[hut.]`     | hutnictví                            |
+| `[it.]`      | informační technologie               |
+| `[jad.]`     | jaderná fyzika, technologie          |
+| `[ker.]`     | keramický průmysl                    |
+| `[kož.]`     | kožedělný průmysl                    |
+| `[lak.]`     | nátěrová technologie, hmoty          |
 | `[potr.]`    | potravinářský průmysl                |
-| `[práv.]`    | práva                                |
-| `[přen.]`    | přeneseně                            |
-| `[psych.]`   | psychologický                        |
-| `[sex.]`     | sexuální výraz                       |
-| `[slang.]`   | slangový výraz                       |
-| `[sport.]`   | výraz z oblasti sportu               |
 | `[stav.]`    | stavebnictví, architektura           |
 | `[tech.]`    | technický obor                       |
 | `[text.]`    | textilní průmysl                     |
 | `[voj.]`     | vojenská terminologie                |
-| `[vulg.]`    | vulgárně                             |
-| `[zast.]`    | zastarale                            |
-| `[zem.]`     | zeměpisný výraz                      |
 | `[zeměděl.]` | zemědělský výraz                     |
-| `[zkr.]`     | zkratka                              |
-| `[zoo.]`     | zoologie                             |
+
+Doprava a výroba dopravních prostředků:
+
+|--------------|--------------------------------------|
+|--------------|--------------------------------------|
+| `[aut.]`     | automobilový průmysl                 |
+| `[let.]`     | letectví                             |
+| `[lod.]`     | lodě, lodní doprava                  |
 | `[žel.]`     | železniční doprava                   |
-| `[žert.]`    | žertovně, žertovné                   |
+
+Případně mohou kategorie vymezovat zeměpisnou oblast, v níž se slovo používá:
 
 |-----------|------------|
 |-----------|------------|
