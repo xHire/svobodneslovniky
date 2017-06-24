@@ -173,6 +173,10 @@ Jméno překladatele
 ------------------
 Jméno, přezdívka a nebo e-mailová adresa autora překladu.
 
+Pokud se významným způsobem na vylepšení překladu podílí ještě další překladatelé, uvedou se jejich jména oddělená středníkem a mezerou. Pořadí autorů odpovídá pořadí jejich příspěvků k překladu. Je-li úprava překladu zásadní (např. se původní nevhodný překlad přesouvá do speciální poznámky a je nahrazen vhodnějším a výstižnějším), má v pořadí významnost přednost a nový přispěvatel je uveden jako první. Např.:
+
+    in foal [TAB] březí [TAB] adj: [TAB] klisna [TAB] Pavel Machek; Vladislav Kalina
+
 
 ---
 
