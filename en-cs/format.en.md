@@ -38,20 +38,20 @@ It is also possible to name categories characterising the word:
 |--------------|--------------------------------------|
 |--------------|--------------------------------------|
 | `[bás.]`     | poeticism                            |
-| `[dět.]`     | dětský výraz, dětsky                 |
+| `[dět.]`     | chidlish                             |
 | `[fráz.]`    | phrase                               |
 | `[frsl.]`    | phrasal verb (e.g., give up)         |
 | `[hovor.]`   | colloquially                         |
 | `[id.]`      | idiom (e.g., a bun in the oven)      |
 | `[jmén.]`    | proper name                          |
-| `[kniž.]`    | knižně                               |
+| `[kniž.]`    | literary                             |
 | `[neobv.]`   | uncommon                             |
 | `[neprav.]`  | irregular verb                       |
 | `[obec.]`    | generic – can be omitted             |
 | `[přen.]`    | metaphorically                       |
 | `[slang.]`   | slangily                             |
 | `[vulg.]`    | vulgarism                            |
-| `[zast.]`    | zastarale                            |
+| `[zast.]`    | old use, archaic                     |
 | `[zkr.]`     | abbreviation                         |
 | `[žert.]`    | jokingly                             |
 
@@ -96,8 +96,8 @@ Agriculture, industry, technology:
 
 |--------------|--------------------------------------|
 |--------------|--------------------------------------|
-| `[cukr.]`    | cukrovarnictví                       |
-| `[dřev.]`    | těžba dřeva, dřevozpracující průmysl |
+| `[cukr.]`    | sugar industry                       |
+| `[dřev.]`    | wood industry                        |
 | `[el.]`      | electrical engineering               |
 | `[horn.]`    | mining, mineralogy                   |
 | `[hut.]`     | metallurgy                           |
@@ -105,7 +105,7 @@ Agriculture, industry, technology:
 | `[jad.]`     | nuclear physics, technology          |
 | `[ker.]`     | keramický průmysl                    |
 | `[kož.]`     | tanning industry                     |
-| `[lak.]`     | nátěrová technologie, hmoty          |
+| `[lak.]`     | coating technology                   |
 | `[potr.]`    | food processing                      |
 | `[stav.]`    | building industry, architecture      |
 | `[tech.]`    | technical domain                     |
