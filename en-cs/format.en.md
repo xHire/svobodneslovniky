@@ -103,7 +103,7 @@ Agriculture, industry, technology:
 | `[hut.]`     | metallurgy                           |
 | `[it.]`      | information technology               |
 | `[jad.]`     | nuclear physics, technology          |
-| `[ker.]`     | keramický průmysl                    |
+| `[ker.]`     | ceramic industry                     |
 | `[kož.]`     | tanning industry                     |
 | `[lak.]`     | coating technology                   |
 | `[potr.]`    | food processing                      |
