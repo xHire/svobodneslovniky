@@ -38,7 +38,7 @@ It is also possible to name categories characterising the word:
 |--------------|--------------------------------------|
 |--------------|--------------------------------------|
 | `[bás.]`     | poeticism                            |
-| `[dět.]`     | chidlish                             |
+| `[dět.]`     | childish                             |
 | `[fráz.]`    | phrase                               |
 | `[frsl.]`    | phrasal verb (e.g., give up)         |
 | `[hovor.]`   | colloquially                         |
@@ -172,6 +172,10 @@ Example:
 Translator’s Name
 ------------------
 Name, nickname and/or an e-mail address of the author of the translation.
+
+If multiple translators significantly contribute to improve a translation, their names are named separated by a semicolon and a space. Order of authors respects the order of their contributions to the translation. If a modification of a translation is fundamental (e.g., the original unsuitable translation is moved to special note and is replaced by a better fitting and apter one), significance has higher priority in ordering and the new translator is named as the first one. For instance:
+
+    in foal [TAB] březí [TAB] adj: [TAB] klisna [TAB] Pavel Machek; Vladislav Kalina
 
 
 ---
