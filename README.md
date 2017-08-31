@@ -7,7 +7,7 @@ Contributing
 1. Fork this repository.
 2. Make your modifications in the particular dictionary. Please, keep the format of the dictionary (which is typically found in `format.en.md` file in the same directory as the dictionary).
 3. Execute the dictionary’s script `sort.sh`. This ensures that all records are in correct order. Unsorted records fail to pass later automatic check.
-4. Create a *Pull Request* for your contribution from your repository. Most times it is best to separate your contributions to individual dictionaries into separate commits with appropriate commit messages.
+4. Create a *Pull Request* for your contribution from your repository. Most times it is best to separate your contributions to individual dictionaries into independent commits with appropriate commit messages.
 
 In case of any issues, get in touch via IRC (see [our website](https://www.svobodneslovniky.cz/)).
 

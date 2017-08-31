@@ -131,7 +131,7 @@ In other cases, categories might determine a geographical area in which the word
 | `[brit.]` | British    |
 | `[skot.]` | Scottish   |
 
-It is also possible to pinpoint, whether it is a plural:
+It is also possible to pinpoint whether it is a plural:
 
 |-------|-------------------------------|
 |-------|-------------------------------|
