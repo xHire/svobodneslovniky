@@ -18,13 +18,14 @@ Notes may serve for labelling word classes:
 |-----------|---------------|
 |-----------|---------------|
 | `n:`      | nouns         |
-| `v:`      | verbs         |
 | `adj:`    | adjectives    |
+| `pron:`   | pronouns      |
+| `num:`    | numerals      |
+| `v:`      | verbs         |
 | `adv:`    | adverbs       |
 | `prep:`   | prepositions  |
 | `conj:`   | conjunctions  |
 | `interj:` | interjections |
-| `num:`    | numerals      |
 
 And/or for indicating whether the subject of interest is a woman or a man (this is an aid for English speaking users):
 
