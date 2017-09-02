@@ -18,13 +18,14 @@ Poznámky mohou sloužit k označení slovních druhů:
 |-----------|-----------------|
 |-----------|-----------------|
 | `n:`      | podstatná jména |
-| `v:`      | slovesa         |
 | `adj:`    | přídavná jména  |
+| `pron:`   | zájmena         |
+| `num:`    | číslovky        |
+| `v:`      | slovesa         |
 | `adv:`    | příslovce       |
 | `prep:`   | předložky       |
 | `conj:`   | spojky          |
 | `interj:` | citoslovce      |
-| `num:`    | číslovky        |
 
 A/nebo k označení, zda předmětem hovoru je žena nebo muž (je to pomůcka pro anglicky mluvící uživatele):
 
