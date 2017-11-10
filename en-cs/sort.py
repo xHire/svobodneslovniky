@@ -12,6 +12,8 @@ for line in sys.stdin:
     entry = line.rstrip('\n').split('\t')
     if len(entry) != column_count:
         raise RuntimeError('Format error on line {}: "{}"'.format(line_number, line))
+    if entry != list(map(str.strip, entry)):
+        raise RuntimeError('Unnecessary whitespace characters on line {}: "{}"'.format(line_number, line))
     entries.append(entry)
 
 cs_sort_key = icu.Collator.createInstance(icu.Locale('cs_CZ.UTF-8')).getSortKey
